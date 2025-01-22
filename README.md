@@ -21,6 +21,9 @@ It's so simple, At first you need to have python installed, after that start wit
 
     pip install -r requirements.txt
 
+now download YOLOv3 which is needed in this project:
+**SOON**
+
 then try to run project with following command:
 
     py main.py
