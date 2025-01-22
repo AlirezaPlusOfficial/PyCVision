@@ -17,5 +17,5 @@ This project leverages the efficiency and accuracy of YOLOv3 for detecting and c
 ~~⚠~~
 # ToDo List
 ~~💢~~
-# Builds And Download (#Build-Download).
-**Soon**
+# Builds And Download ().
+**Soon** (#Build-Download)
