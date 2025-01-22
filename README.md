@@ -25,6 +25,7 @@ now download YOLOv3 which is needed in this project:
 [`YOLOv3.weights`](https://pjreddie.com/media/files/yolov3.weights)
 [`YOLOv3.cfg`](https://github.com/pjreddie/darknet/raw/refs/heads/master/cfg/yolov3.cfg)
 [`coco.names`](https://github.com/pjreddie/darknet/raw/refs/heads/master/data/coco.names)
+<br>
 put all three downloaded files into the same directory where main.py is
 
 then try to run project with following command:
