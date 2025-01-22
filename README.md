@@ -16,7 +16,7 @@ This project leverages the efficiency and accuracy of YOLOv3 for detecting and c
 ~~⚠~~
 # ToDo List
 ~~💢~~
-# Builds And Download ().
+# Builds And Download
 It's so simple, At first you need to have python installed, after that start with installing necessary requirements, type:
 
     pip install -r requirements.txt
